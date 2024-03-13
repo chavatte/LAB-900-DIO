@@ -72,7 +72,7 @@ Um novo recurso de linguagem é criado na sua assinatura do Azure. Você pode us
 <summary>Analisando os comentários da TecnoMágico</summary>
 
 **Arquivo de comentários:**
-User Reviews: [&#34;/output/user_reviews.txt&#34;](./output/user_reviews.txt)
+User Reviews: [&#34;/input/user_reviews.txt&#34;](./input/user_reviews.txt)
 
 **Resultados:**
 
@@ -431,7 +431,7 @@ User Reviews: [&#34;/output/user_reviews.txt&#34;](./output/user_reviews.txt)
 
 **Entidades:**
 
-* **TecnoMágico:** Serviços online 
+* **TecnoMágico:** Serviços online
 
 **Opiniões:**
 
