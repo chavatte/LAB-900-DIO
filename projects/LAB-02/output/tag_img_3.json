@@ -1,0 +1,82 @@
+{
+  "apim-request-id": "683ffff1-d9d7-4aa5-9408-7eaad902e62a",
+  "content-length": "957",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "metadata": {
+    "width": 4345,
+    "height": 2896
+  },
+  "tagsResult": {
+    "values": [
+      {
+        "name": "ao ar livre",
+        "confidence": 0.9990943670272827
+      },
+      {
+        "name": "céu",
+        "confidence": 0.9881094694137573
+      },
+      {
+        "name": "decíduo",
+        "confidence": 0.9809006452560425
+      },
+      {
+        "name": "queda",
+        "confidence": 0.9756757020950317
+      },
+      {
+        "name": "outono",
+        "confidence": 0.9696103930473328
+      },
+      {
+        "name": "natureza",
+        "confidence": 0.9652202129364014
+      },
+      {
+        "name": "luz do sol",
+        "confidence": 0.9261423349380493
+      },
+      {
+        "name": "paisagem",
+        "confidence": 0.9216715097427368
+      },
+      {
+        "name": "chão",
+        "confidence": 0.9007792472839355
+      },
+      {
+        "name": "planta",
+        "confidence": 0.8856790065765381
+      },
+      {
+        "name": "bosque",
+        "confidence": 0.873001217842102
+      },
+      {
+        "name": "bioma",
+        "confidence": 0.8696091175079346
+      },
+      {
+        "name": "árvore",
+        "confidence": 0.8649338483810425
+      },
+      {
+        "name": "manhã",
+        "confidence": 0.8573187589645386
+      },
+      {
+        "name": "floresta",
+        "confidence": 0.8362170457839966
+      },
+      {
+        "name": "folha",
+        "confidence": 0.7560943365097046
+      },
+      {
+        "name": "caminho",
+        "confidence": 0.4015601575374603
+      }
+    ]
+  }
+}

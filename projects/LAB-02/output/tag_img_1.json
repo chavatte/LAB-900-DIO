@@ -1,0 +1,106 @@
+{
+  "apim-request-id": "3d80ff8b-644d-4d24-ac4e-4d937e1b5c47",
+  "content-length": "1278",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "metadata": {
+    "width": 800,
+    "height": 534
+  },
+  "tagsResult": {
+    "values": [
+      {
+        "name": "ao ar livre",
+        "confidence": 0.9990091919898987
+      },
+      {
+        "name": "calçados",
+        "confidence": 0.9908157587051392
+      },
+      {
+        "name": "roupas",
+        "confidence": 0.9827602505683899
+      },
+      {
+        "name": "pessoa",
+        "confidence": 0.9756208658218384
+      },
+      {
+        "name": "faixa de pedestres",
+        "confidence": 0.9705552458763123
+      },
+      {
+        "name": "árvore",
+        "confidence": 0.9676836729049683
+      },
+      {
+        "name": "pessoas",
+        "confidence": 0.9622030258178711
+      },
+      {
+        "name": "caminho",
+        "confidence": 0.9432342648506165
+      },
+      {
+        "name": "edifício",
+        "confidence": 0.9330729246139526
+      },
+      {
+        "name": "céu",
+        "confidence": 0.9288889169692993
+      },
+      {
+        "name": "mulher",
+        "confidence": 0.9268959760665894
+      },
+      {
+        "name": "espaço público",
+        "confidence": 0.9120928049087524
+      },
+      {
+        "name": "grupo",
+        "confidence": 0.8933897018432617
+      },
+      {
+        "name": "rua",
+        "confidence": 0.8832791447639465
+      },
+      {
+        "name": "turismo",
+        "confidence": 0.882850170135498
+      },
+      {
+        "name": "homem",
+        "confidence": 0.842758059501648
+      },
+      {
+        "name": "viagem",
+        "confidence": 0.8409790396690369
+      },
+      {
+        "name": "cidade",
+        "confidence": 0.8110060095787048
+      },
+      {
+        "name": "estrada",
+        "confidence": 0.7906162738800049
+      },
+      {
+        "name": "caminhando",
+        "confidence": 0.7285315990447998
+      },
+      {
+        "name": "multidão",
+        "confidence": 0.6576464176177979
+      },
+      {
+        "name": "chão",
+        "confidence": 0.6072524189949036
+      },
+      {
+        "name": "verão",
+        "confidence": 0.5533778667449951
+      }
+    ]
+  }
+}

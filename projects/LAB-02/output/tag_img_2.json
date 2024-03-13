@@ -1,0 +1,82 @@
+{
+  "apim-request-id": "bb58ead2-7756-4a8b-8178-50365b0d80b3",
+  "content-length": "979",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "metadata": {
+    "width": 800,
+    "height": 533
+  },
+  "tagsResult": {
+    "values": [
+      {
+        "name": "paisagem",
+        "confidence": 0.9920254349708557
+      },
+      {
+        "name": "água",
+        "confidence": 0.9649262428283691
+      },
+      {
+        "name": "ao ar livre",
+        "confidence": 0.9587111473083496
+      },
+      {
+        "name": "pintura",
+        "confidence": 0.93623948097229
+      },
+      {
+        "name": "natureza",
+        "confidence": 0.9193775653839111
+      },
+      {
+        "name": "lago",
+        "confidence": 0.9167346954345703
+      },
+      {
+        "name": "construção",
+        "confidence": 0.9101642370223999
+      },
+      {
+        "name": "praia",
+        "confidence": 0.8845374584197998
+      },
+      {
+        "name": "céu",
+        "confidence": 0.8787607550621033
+      },
+      {
+        "name": "terrenos costeiros e oceânicos",
+        "confidence": 0.8618207573890686
+      },
+      {
+        "name": "montanha",
+        "confidence": 0.85480135679245
+      },
+      {
+        "name": "costa",
+        "confidence": 0.8272373080253601
+      },
+      {
+        "name": "cidade",
+        "confidence": 0.6482953429222107
+      },
+      {
+        "name": "mar",
+        "confidence": 0.5968489050865173
+      },
+      {
+        "name": "por do sol",
+        "confidence": 0.5365884900093079
+      },
+      {
+        "name": "oceano",
+        "confidence": 0.46102601289749146
+      },
+      {
+        "name": "panorama",
+        "confidence": 0.4220951497554779
+      }
+    ]
+  }
+}
