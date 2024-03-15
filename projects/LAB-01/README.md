@@ -117,6 +117,7 @@ Acesse o portal do Azure com suas credenciais da Microsoft.
 - **O treinamento iniciará automaticamente.**
 - **Aguarde a conclusão do trabalho.**
 </details>
+
 <details>
 <summary>Analisando o Melhor Modelo Treinado</summary>
   
@@ -154,6 +155,7 @@ Após a conclusão do trabalho de Machine Learning Automatizado, você pode revi
 - Explorar outros modelos com bom desempenho para comparação.
   
 </details>
+
 <details>
 <summary>Implementando e Testando o Modelo</summary>
 
@@ -245,6 +247,7 @@ Analisando os Resultados:
 - O modelo foi implantado como um serviço web acessível via API.
 - O serviço implantado foi testado com dados de entrada específicos, gerando uma previsão do número de aluguéis.
 </details>
+
 <details>
 <summary>Limpeza e Exclusão</summary>
 
@@ -267,4 +270,5 @@ Se você terminou de explorar o Azure Machine Learning, pode excluir o espaço d
 - Abra o grupo de recursos que você especificou ao criar o seu espaço de trabalho.
 - Clique em **"Excluir Grupo de Recursos"**.
 - Digite o nome do grupo de recursos para confirmar a exclusão e clique em **"Excluir"**.
+
 </details>

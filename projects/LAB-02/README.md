@@ -6,14 +6,12 @@
 Esse texto descreve como foi utilizado nesse bootcamp e como utilizar o Azure Machine Learning e o Azure Vision Studio para realizar tarefas de visão computacional. A visão computacional é um ramo da inteligência artificial que permite que computadores interpretem e compreendam o conteúdo de imagens e vídeos.
 
 **Etapas necessárias:**
-
 1. **Criar uma conta no Azure:** Acesse o portal do Azure através do link [https://portal.azure.com](https://portal.azure.com/) e siga as instruções para criar uma conta gratuita ou paga.
 2. **Obter uma assinatura válida:** O Azure oferece um período de teste gratuito de 1 mês com $200 em créditos para testar seus serviços. Após o período de teste, é necessário adquirir uma assinatura paga para continuar utilizando os serviços.
 3. **Criar um recurso "Azure AI services":** Dentro do portal do Azure, acesse a seção "Criar um recurso" e procure por "Azure AI services". Siga as instruções para criar um novo recurso.
 4. **Acessar o Vision Studio:** Acesse o Vision Studio através do link [https://portal.vision.cognitive.azure.com/](https://portal.vision.cognitive.azure.com/) para começar a utilizar as ferramentas de visão computacional.
 
 **Recursos utilizados nesse LAB:**
-
 * **Reconhecimento de faces:** [https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/04-face.html](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/04-face.html)
 * **Reconhecimento de texto(OCR):** [https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/05-ocr.html](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/05-ocr.html)
 * **Analise de Imagens:** [https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/03-image-analysis.html](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/03-image-analysis.html)
@@ -1368,7 +1366,6 @@ COMPANHIADASLETRAS
 
 #### Imagem-02:
 <img align="center" src="./input/ocr_img_2.jpg" width="350" height="auto"/>
-
 
 ##### Atributos Detectados:
 RUA

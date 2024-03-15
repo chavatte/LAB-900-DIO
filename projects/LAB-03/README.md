@@ -16,16 +16,15 @@ Um breve resumo para a implementação e utilização do recurso
 **Etapas:**
 
 1. **Acessar o portal do Azure:**
-
    * Acesse o portal em [https://azure.microsoft.com/en-us/get-started/azure-portal](https://azure.microsoft.com/en-us/get-started/azure-portal).
    * Entre com sua conta Microsoft associada à assinatura do Azure.
+   
 2. **Localizar o serviço de linguagem:**
-
    * Clique no botão "+ Criar um recurso".
    * Pesquise por "Language service".
    * Selecione "Criar um plano de serviço de linguagem".
+   
 3. **Configurar o recurso:**
-
    * Na página "Criar linguagem", preencha os campos com as seguintes informações:
      * **Assinatura:** Sua assinatura do Azure.
      * **Grupo de recursos:** Selecione ou crie um grupo de recursos com um nome exclusivo.
@@ -33,8 +32,8 @@ Um breve resumo para a implementação e utilização do recurso
      * **Nome:** Insira um nome exclusivo para o recurso.
      * **Nível de preços:** Gratuito F0 ou S (caso F0 não esteja disponível).
      * **Confirmação de leitura dos termos:** Selecione a caixa de confirmação.
+	 
 4. **Criar o recurso:**
-
    * Clique em "Revisar + criar".
    * Clique em "Criar".
    * Aguarde a conclusão da implantação.
@@ -48,23 +47,30 @@ Um novo recurso de linguagem é criado na sua assinatura do Azure. Você pode us
 <summary>Configurar o recurso no Language Studio do Azure AI</summary>
 
 1. **Abra o Language Studio:** Acesse o Language Studio em [https://language.cognitive.azure.com/](https://language.cognitive.azure.com/) em outra aba do navegador e faça login.
-2. **Selecione o Recurso de Linguagem:** Ao ser solicitado a "Selecionar um recurso do Azure", configure as opções da seguinte forma:
 
+2. **Selecione o Recurso de Linguagem:** 
+Ao ser solicitado a "Selecionar um recurso do Azure", configure as opções da seguinte forma:
    * **Diretório do Azure:** Diretório Padrão (aquele que você está usando)
    * **Assinatura do Azure:** Selecione a assinatura que você está usando
    * **Tipo de Recurso:** Linguagem
    * **Nome do Recurso:** Selecione o recurso de linguagem que você acabou de criar
-3. **Conclua a configuração:** Clique em "Concluído" para habilitar o recurso.
+   
+3. **Conclua a configuração:** 
+Clique em "Concluído" para habilitar o recurso.
 
 </details>
 
 <details>
 <summary>Limpar os recursos criados, caso não sejam mais necessários</summary>
 
-1. **Acessar o portal do Azure:** Abra o portal do Azure em [https://azure.microsoft.com/en-us/get-started/azure-portal](https://azure.microsoft.com/en-us/get-started/azure-portal).
-2. **Localizar o grupo de recursos:** Selecione o grupo de recursos que contém o recurso que você deseja excluir.
-3. **Selecionar o recurso:** Escolha o recurso específico que deseja remover.
-4. **Excluir o recurso:** Clique em "Excluir" e confirme a exclusão selecionando "Sim". O recurso será então deletado.
+1. **Acessar o portal do Azure:** 
+Abra o portal do Azure em [https://azure.microsoft.com/en-us/get-started/azure-portal](https://azure.microsoft.com/en-us/get-started/azure-portal).
+2. **Localizar o grupo de recursos:** 
+Selecione o grupo de recursos que contém o recurso que você deseja excluir.
+3. **Selecionar o recurso:** 
+Escolha o recurso específico que deseja remover.
+4. **Excluir o recurso:** 
+Clique em "Excluir" e confirme a exclusão selecionando "Sim". O recurso será então deletado.
 
 </details>
 
@@ -407,12 +413,10 @@ User Reviews: [&#34;/input/user_reviews.txt&#34;](./input/user_reviews.txt)
 **Conclusão:**
 
 **Sentimento geral:**
-
 * **Negativo:** As opniões tem um sentimento predominantemente negativo.
 * **Confiança:** 72%
 
 **Análise por frase:**
-
 * **Frase 1:** "O TecnoMágico facilitou muito a minha vida!"
   * **Sentimento:** Positivo
   * **Confiança:** 81%
@@ -430,17 +434,14 @@ User Reviews: [&#34;/input/user_reviews.txt&#34;](./input/user_reviews.txt)
   * **Confiança:** 92%
 
 **Entidades:**
-
 * **TecnoMágico:** Serviços online
 
 **Opiniões:**
-
 * **A interface do TecnoMágico não é intuitiva.**
 * **O TecnoMágico não é confiável.**
 * **O TecnoMágico é caro.**
 
 **Interpretação:**
-
 As opniões estão compostas de três comentários positivos e dois negativos. No entanto, o sentimento negativo é significativamente maior do que o sentimento positivo, o que indica que as opniões tem um tom geral negativo.
 
 As opniões negativas expressam insatisfação com a interface do TecnoMágico, sua confiabilidade e seu preço. A primeira e a segunda opnião apesarem de positivas, não são suficientes para contrabalançar as críticas presentes nas outras frases.
