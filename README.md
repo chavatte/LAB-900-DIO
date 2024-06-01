@@ -21,14 +21,3 @@ O objetivo principal desse bootcamp é obter uma introdução aos serviços Azur
 ## Certificado de conclusão
 
  :mortar_board: [Microsoft Azure AI Fundamentals](https://www.dio.me/certificate/DJWKRGD3) 
-
-
-
-
-
-
-
-
-
-
-
