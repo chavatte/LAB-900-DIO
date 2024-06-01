@@ -17,3 +17,18 @@ O objetivo principal desse bootcamp é obter uma introdução aos serviços Azur
 ### [LAB-04: Informação de Documentos e Mineração de Conhecimento](./projects/LAB-04/README.md)
 
 ### [LAB-05: IA Generativa](./projects/LAB-05/README.md)
+
+## Certificado de conclusão
+
+ :mortar_board: [Microsoft Azure AI Fundamentals] (https://www.dio.me/certificate/DJWKRGD3) 
+
+
+
+
+
+
+
+
+
+
+
